@@ -1,5 +1,6 @@
 # The Request
-Personal note: Maybe learn cURL
+Personal note: Maybe learn cURL.
+
 Good resource:
 ```
 https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
