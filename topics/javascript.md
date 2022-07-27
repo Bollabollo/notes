@@ -39,3 +39,6 @@ f(1, 2, 3);
 ```
 ### Spread syntax
 Need to come back to this, don't get it
+
+## Nodelist
+When using querySelectorAll, what is returned is a nodelist **not** an array. It is a collection of nodes. Can still be iterated over using forEach(). Can also be turned into arrays using spread syntax and Array.form().
