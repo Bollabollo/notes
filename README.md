@@ -10,6 +10,10 @@ A place for me to take notes while learning programming
 * HTML:
 
   * [Document Object Model](topics/dom.md)
+  
+  * [CSS Object Model] (topics/CSSOM.md)
+  
+  * [Render tree](topics/render-tree.md)
 
 * [JavaScript](topics/javascript.md)
 
