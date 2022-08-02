@@ -7,7 +7,7 @@ A place for me to take notes while learning programming
 
 * [Web Browser](topics/web-browser.md)
 
-* HTML:
+* Foundational concepts:
 
   * [Document Object Model](topics/dom.md)
   
