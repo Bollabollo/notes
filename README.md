@@ -5,6 +5,8 @@ A place for me to take notes while learning programming
 ### Web Development
 * [REST API](topics/rest-api.md)
 
+* [Web Browser](topics/web-browser.md)
+
 * HTML:
 
   * [Document Object Model](topics/dom.md)
