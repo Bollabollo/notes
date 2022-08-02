@@ -10,7 +10,7 @@ When a client requests a HTML document, the server sends packets (bytes of data)
 
 
 ## Fetching the CSS file
-While the browser receives the raw bytes of data and begins DOM construction, it also makes a request to fetch the CSS file linked. The process is similar to the HTML process but instead of the DOM, the constructed tree model is**CSSOM (CSS Object Model).**
+While the browser receives the raw bytes of data and begins DOM construction, it also makes a request to fetch the CSS file linked. The process is similar to the HTML process but instead of the DOM, the constructed tree model is **CSSOM (CSS Object Model).**
 ![image](https://user-images.githubusercontent.com/84720339/182420837-c8075b78-4f5f-47e5-b83c-f4c93a35381d.png)
 
 
