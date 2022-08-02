@@ -11,7 +11,7 @@ A place for me to take notes while learning programming
 
   * [Document Object Model](topics/dom.md)
   
-  * [CSS Object Model] (topics/CSSOM.md)
+  * [CSS Object Model](topics/CSSOM.md)
   
   * [Render tree](topics/render-tree.md)
 
