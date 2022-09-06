@@ -18,8 +18,9 @@ A place for me to take notes while learning programming and computers in general
 
 * [JavaScript](topics/javascript.md)
 
-### Computer
+### Hardware-ish
 * [Computer](topics/computer.md)
+* [Cables/Data Connector](topics/cables.md)
 
 ### Mail Server
 * [SMTP](topics/smtp.md)
