@@ -1,7 +1,8 @@
 # notes
 A place for me to take notes while learning programming and computers in general
 
-
+### On My Computer Stuffs
+* [Hosts file](topics/hosts-file.md)
 
 ### Web Development
 * [REST API](topics/rest-api.md)
