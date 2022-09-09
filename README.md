@@ -3,8 +3,10 @@ A place for me to take notes while learning programming and computers in general
 
 * [C++](topics/c++.md)
 
+
 ### On My Computer Stuffs
 * [Hosts file](topics/hosts-file.md)
+* [Binary Encoding] (topics/binary-encoding.md)
 
 ### Web Development
 * [REST API](topics/rest-api.md)
