@@ -30,11 +30,11 @@ return_type function_name( parameter list ) {
    body of the function
 }
 ```
-
+The function declaration followed immediately by the _block of statements (function body)_
 #### Declaration
 Tells the compiler about the function name, its parameters, what value it returns and how to call it.
 
-The function declaration followed immediately by the _block of statements (function body)_
+
 ```
 return_type function_name( parameter list );
 ```
