@@ -22,7 +22,9 @@ The declaration of an identifier (the introduction of a name)
 
 ### Function 
 #### **Main** function
-This is a special function. Read more on it.
+The function **main** is treated by the compiler as the **entry point** for executing the program but it's not the first function executed - something else like start ().
+
+
 #### Definition
 The general form of a C++ function definition is usually as follows:
 ```
